@@ -10,7 +10,7 @@ A course on Machine Learning (e.g., AI2000, CS3390, EE2802, EE5913, EE5610) and 
 
 ## Logistics
 
-**Class Room**: A-LH1
+**Class Room**: to be updated
 
 **Timings**: Slot-B (Monday-10:00-10:55, Wednesday-09:00-09:55, Thursday-11:00-11:55)
 
